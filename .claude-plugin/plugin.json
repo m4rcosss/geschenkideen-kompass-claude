@@ -1,0 +1,15 @@
+{
+  "name": "geschenkideen-kompass",
+  "displayName": "Geschenkideen-Kompass",
+  "version": "1.0.0",
+  "description": "Passende Geschenkideen für jede Person, jedes Alter und jedes Budget – aus dem redaktionell gepflegten Katalog des Geschenkideen-Kompass (Deutschland).",
+  "author": {
+    "name": "Marco Scheel",
+    "email": "info@geschenkideen-kompass.de",
+    "url": "https://geschenkideen-kompass.de"
+  },
+  "homepage": "https://geschenkideen-kompass.de",
+  "license": "MIT",
+  "keywords": ["geschenke", "geschenkideen", "weihnachten", "geburtstag", "kinder", "gifts"],
+  "mcpServers": "./.mcp.json"
+}

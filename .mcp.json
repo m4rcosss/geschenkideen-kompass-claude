@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "geschenkideen-kompass": {
+      "type": "http",
+      "url": "https://geschenkideen-kompass.de/mcp"
+    }
+  }
+}
